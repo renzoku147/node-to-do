@@ -1,0 +1,23 @@
+{
+  "name": "04-to-do",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renzoku147/multiplicar-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renzoku147/multiplicar-node/issues"
+  },
+  "homepage": "https://github.com/renzoku147/multiplicar-node#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  }
+}
